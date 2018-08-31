@@ -1,0 +1,5 @@
+a=raw input("")
+if(a<18):
+    print("age is eligible for voting")
+    else:
+        print("age is not eligible for voting")
